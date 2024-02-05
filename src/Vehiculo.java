@@ -9,7 +9,7 @@ public class Vehiculo {
         this.marca = marca;
         this.costo = costo;
     }
-    
+
     // Getters and setters
     public String getModelo() {
         return modelo;
